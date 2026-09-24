@@ -17,3 +17,5 @@ npx skills@latest add therealmarzouq/skills
 1. **simplified-technical-english** — Write and rewrite docs, plans, READMEs, and specs
    using ASD-STE100 Simplified Technical English principles: short sentences, one
    approved meaning per word, active voice, no filler.
+2. **no-comments** — Delete unnecessary code comments, fix the code that made them
+   necessary, and offer to encode real constraints as types, tests, or lint rules.
